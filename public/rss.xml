@@ -2,18 +2,32 @@
 <rss version="2.0">
 
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>League1 Ontario</title>
+  <link>https://www.league1ontario.com</link>
+  <description>League1 Ontario website</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>NDC Ontario players League1 Canada alumni to feature in April women's internationals</title>
+    <link>https://www.league1ontario.com/news_article/show/1306166</link>
+    <description>CANWNT and CANW20 are in action from April 5 to April 9, with plenty of former Pro-Am players expected to play.</description>
+    <author>League1 Ontario staff</author>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>Vaughan travel to Simcoe in blockbuster clash during Premier Division opening weekend</title>
+    <link>https://www.league1ontario.com/news_article/show/1305169</link>
+    <description>The 2024 Men’s and Women’s Premier Divisions kick off with some entertaining matchups.</description>
+    <author>League1 Ontario staff</author>
+  </item>
+  <item>
+    <title>Thursday night action to kick off Championship Division</title>
+    <link>https://www.league1ontario.com/news_article/show/1305167</link>
+    <description>The new League1 Ontario second tier begins its inaugural season at Ron Joyce Stadium.</description>
+    <author>League1 Ontario staff</author>
+  </item>
+  <item>
+    <title>League2 Division to kick off the L1ON regular season</title>
+    <link>https://www.league1ontario.com/news_article/show/1305101</link>
+    <description>The new third tier will be the first division to start play in 2024.</description>
+    <author>League1 Ontario staff</author>
   </item>
 </channel>
 
